@@ -11,6 +11,8 @@ public class day2 {
 	public void Demo1()
 	{
 		System.out.println("Babe");
+		System.out.println("Babe1");
+		System.out.println("Babe2");
 	}
 	
 	@BeforeTest
