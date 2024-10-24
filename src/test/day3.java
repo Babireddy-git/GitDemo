@@ -14,6 +14,9 @@ public class day3 {
 	public void beforeClass()
 	{
 		System.out.println("i will execute before executing any method in the class");
+		System.out.println("i will execute before executing any method in the class");
+		System.out.println("i will execute before executing any method in the class");
+		System.out.println("i will execute before executing any method in the class");
 	}
 	
 	@AfterClass
