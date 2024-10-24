@@ -9,6 +9,8 @@ public class day1 {
 	public void Demo()
 	{
 		System.out.println("hello");
+		System.out.println("hello1");
+		System.out.println("hello2");
 	}
 	
 	@AfterTest
