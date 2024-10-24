@@ -23,6 +23,8 @@ public class day3 {
 	public void aftereClass()
 	{
 		System.out.println("i will execute after executing all methods in the class");
+
+		System.out.println("i will execute after executing all methods in the class");
 	}
 	
 	@Test (groups={"SMOKE"})
